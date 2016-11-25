@@ -111,3 +111,8 @@ git clone https://github.com/addyosmani/dotfiles.git && cd dotfiles && ./sync.sh
 ```
 
 To update later on, just run the sync again.
+
+
+## Resources
+
+https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#
