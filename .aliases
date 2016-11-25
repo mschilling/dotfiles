@@ -19,6 +19,9 @@ alias c="cd ~/Code"
 
 # programs
 
+alias code="open -a '/Applications/Visual Studio Code - Insiders.app'"
+alias webstorm="open -a '/Applications/Webstorm.app'"
+
 #alias st='open -a "Sublime Text"'
 # also/or do this:
 # ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
