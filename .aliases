@@ -9,6 +9,7 @@ alias ..="cd .."
 # Shortcuts
 #alias d="cd ~/Documents/Dropbox"
 alias c="cd ~/Code"
+alias ce="cd ~/Code/_experiments"
 #alias dl="cd ~/Downloads"
 #alias dt="cd ~/Desktop"
 #alias p="cd ~/projects"
